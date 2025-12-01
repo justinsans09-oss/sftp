@@ -1,6 +1,7 @@
 sftp
 ----
-
+Support btc
+btc; | bc1q7gt7q3yv7t4xtyaa6df8kma30k37ywavd62d6m |
 The `sftp` package provides support for file system operations on remote ssh
 servers using the SFTP subsystem. It also implements an SFTP server for serving
 files from the filesystem.
